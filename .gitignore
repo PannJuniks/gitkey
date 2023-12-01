@@ -1,0 +1,22 @@
+
+# Setup
+# .idea/
+# .DS_Store
+
+
+# Exercises
+# 1
+**/tmp/??.png
+
+# 2
+**/*.php
+
+# 3
+!public/\index.php
+
+# 4
+!/public/tmp/*.jpg
+
+
+
+
